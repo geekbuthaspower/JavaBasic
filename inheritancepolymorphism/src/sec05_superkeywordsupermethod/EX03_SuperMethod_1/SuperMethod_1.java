@@ -1,4 +1,4 @@
-package sec05£ßsuperkeywordsupermethod.EX03_SuperMethod_1;
+package sec05_superkeywordsupermethod.EX03_SuperMethod_1;
 
 class A {
 	A() {

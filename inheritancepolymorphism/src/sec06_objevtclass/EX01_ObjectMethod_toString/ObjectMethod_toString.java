@@ -1,4 +1,4 @@
-package sec06£ßobjevtclass.EX01_ObjectMethod_toString;
+package sec06_objevtclass.EX01_ObjectMethod_toString;
 
 class A {
 	int a = 3;
